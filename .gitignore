@@ -3,3 +3,4 @@
 /vendor
 .env
 .env.backup
+node_modules
